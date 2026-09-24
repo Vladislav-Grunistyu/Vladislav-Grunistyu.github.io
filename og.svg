@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f6f1e6"/>
+  <rect x="72" y="72" width="88" height="88" rx="24" fill="#5b2ee5"/>
+  <rect x="96" y="96" width="40" height="40" rx="8" fill="#ffe14a"/>
+  <text x="72" y="280" fill="#1c1430" font-family="sans-serif" font-size="64" font-weight="700">A game you can ship</text>
+  <text x="72" y="360" fill="#ff4b3a" font-family="sans-serif" font-size="32" font-weight="700">Unity · prototype · Steam · Yandex Games</text>
+  <text x="72" y="450" fill="#5c536c" font-family="sans-serif" font-size="28">3 Steam releases · 26 languages · direct</text>
+</svg>
